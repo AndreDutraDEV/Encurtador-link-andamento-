@@ -254,6 +254,7 @@ header {
   gap: 1rem;
   align-items: center;
   justify-content: start;
+  margin: 0 0 1.5rem 0;
 }
 
 .item-link-shorted {
